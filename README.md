@@ -33,9 +33,9 @@
 |[E. Значение арифметического выражения](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_3/E.py)|$O(N)$|$O(N)$|✅|-|
 |[F. Минимальная ПСП](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_3/F.py)|$O(Nm)$|$O(N)$|✅|-|
 |[G. Очередь в ПВЗ*](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_3/G.py)|$O(N)$|$O(1)$|✅|1|
-|[H. Стек с суммой*](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_3/H.py)|$O(N)$|$O(N)$|✅|3|
-|[I. Автоматизированный склад*](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_3/I.py)|$O(NlogN)$|$O(N)$|✅|1|
-|[J. Кровать из стульев*](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_3/J.py)|$O(NlogN)$|$O(N)$|✅|4|
+|[H. Стек с суммой*](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_3/H_star.py)|$O(N)$|$O(N)$|✅|3|
+|[I. Автоматизированный склад*](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_3/I_star.py)|$O(NlogN)$|$O(N)$|✅|1|
+|[J. Кровать из стульев*](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_3/J_star.py)|$O(NlogN)$|$O(N)$|✅|4|
 
 ### Лекция 4: [Деревья, представления и обходы](https://github.com/anderlex/Algorithm-train-6.0/tree/main/hw_4)
 |Задание|Временная сложность|Сложность по памяти|Решено|Кол-во попыток на *|
@@ -47,8 +47,8 @@
 |[E. Размер поддеревьев](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_4/E.py)|$O(N^2)$|$O(N)$|✅|-|
 |[F. Бюрократия](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_4/F.py)|$O(N)$|$O(N)$|✅|-|
 |[G. Дятлы](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_4/G.py)|$O(N^2)$|$O(N)$|✅|-|
-|[H. Вершинно-реберное покрытие дерева*](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_4/H.py)|$O(N)$|$O(N)$|✅|4|
-|[I. Пара путей*](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_4/I.py)|$O(N)$|$O(N)$|✅|17|
+|[H. Вершинно-реберное покрытие дерева*](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_4/H_star.py)|$O(N)$|$O(N)$|✅|4|
+|[I. Пара путей*](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_4/I_star.py)|$O(N)$|$O(N)$|✅|17|
 |J. Количество топсортов дерева*|$O(N)?$|$O(N)$|✅|-|
 
 ### Итоговый рейтинг
