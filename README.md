@@ -54,7 +54,7 @@
 |[G. Дятлы](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_4/G.py)|$O(N^2)$|$O(N)$|✅|-|
 |[H. Вершинно-реберное покрытие дерева*](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_4/H_star.py)|$O(N)$|$O(N)$|✅|4|
 |[I. Пара путей*](https://github.com/anderlex/Algorithm-train-6.0/blob/main/hw_4/I_star.py)|$O(N)$|$O(N)$|✅|17|
-|J. Количество топсортов дерева*|$O(N)?$|$O(N)$|✅|-|
+|J. Количество топсортов дерева*|$O(N)?$|$O(N)$|:x:|-|
 
 
 
